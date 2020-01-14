@@ -1,4 +1,4 @@
-import Neuron
+import ArtificialNeuron
 
 class Layer:
 
