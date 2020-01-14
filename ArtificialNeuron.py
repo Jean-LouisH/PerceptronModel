@@ -13,7 +13,7 @@ class ArtificialNeuron:
     def computeActivationLevel():
         pass
     
-    def heavySideStepFunction(self, activationLevel):
+    def heavysideStepFunction(self, activationLevel):
         if self.activationLevel >= 0:
             self.output = 1
         else:
